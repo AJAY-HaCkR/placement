@@ -1,0 +1,54 @@
+Got it, Ajay—no quizzes, just pure coding challenges to sharpen your placement prep 💪🔥. Here’s a fresh set of **10 Python string-based coding challenges**, ranging from beginner to interview-level. No fluff, just problems to solve:
+
+---
+
+### 🔟 Python String Coding Challenges
+
+1. **Reverse Words in a Sentence**  
+   Input: `"Hello World"`  
+   Output: `"World Hello"`  
+   *(Split, reverse, and join)*
+
+2. **Check for Palindrome**  
+   Input: `"madam"`  
+   Output: `True`  
+   *(Ignore case and spaces if you want to stretch it)*
+
+3. **Count Vowels and Consonants**  
+   Input: `"Python"`  
+   Output: `Vowels: 1, Consonants: 5`
+
+4. **Remove Duplicate Characters**  
+   Input: `"programming"`  
+   Output: `"progamin"`  
+   *(Keep first occurrence only)*
+
+5. **Find the Most Frequent Character**  
+   Input: `"banana"`  
+   Output: `'a'`  
+   *(Use dictionary or `collections.Counter`)*
+
+6. **Check if Two Strings Are Anagrams**  
+   Input: `"listen", "silent"`  
+   Output: `True`  
+   *(Same letters, different order)*
+
+7. **Compress a String (Run-Length Encoding)**  
+   Input: `"aaabbc"`  
+   Output: `"a3b2c1"`
+
+8. **Find All Substrings of a String**  
+   Input: `"abc"`  
+   Output: `["a", "ab", "abc", "b", "bc", "c"]`
+
+9. **Capitalize First Letter of Each Word**  
+   Input: `"hello world"`  
+   Output: `"Hello World"`
+
+10. **Remove All Digits from a String**  
+    Input: `"a1b2c3"`  
+    Output: `"abc"`
+
+---
+
+Want me to pick one and walk through the solution with you? Or I can give you a daily challenge from this list with increasing difficulty. Let’s keep building your coding stamina!
